@@ -68,6 +68,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-photo-editing](modules/photo-editing)
 - [django-files](backend/modules)
 - [django-calendly](backend/modules)
+- [django-core](backend/modules)
 
 # Getting started: Frontend
 
